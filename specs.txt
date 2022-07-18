@@ -1,0 +1,6 @@
+List of the operations that can be done using this program:
+
+Addition
+Subtraction
+Division
+Multiplicationn
